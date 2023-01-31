@@ -18,5 +18,10 @@ public class EmployeeTest {
         empTwo.empDesignation("Software Engineer");
         /*empTwo.empSalary();*/
         empTwo.printEmployee();
+
+        empthree.empAge(20);
+        empthree.empDesignation("Engineer");
+        /*empOne.Salary();*/
+        empthree.printEmployee();
     }
 }
